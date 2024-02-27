@@ -7,6 +7,3 @@ Banco de Dados - MySQL
 
 EntityFrameworkCore
 
-JWT
-
-Dependency Injection
